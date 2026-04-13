@@ -2,8 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/9371c6b5-0e29-4310-98aa-4bb517248ad4
-
+**URL**: https://doubt-connect-spark.lovable.app/
 ## How can I edit this code?
 
 There are several ways of editing your application.
